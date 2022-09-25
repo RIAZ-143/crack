@@ -24,7 +24,7 @@ def Run():
 
             print("\x1b[1;92m Congratulations ! Your Device Support this Tools")
 
-            import crack
+            import main
 
         else:
 
